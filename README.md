@@ -1,4 +1,6 @@
 # This is the https://regolith-desktop.com website
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsirredbeard%2Fregolith-desktop-website.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsirredbeard%2Fregolith-desktop-website?ref=badge_shield)
+
 
 This site uses the [Hugo static site generator](https://gohugo.io/) and the [Book theme](https://themes.gohugo.io/themes/hugo-book/).
 
@@ -97,3 +99,7 @@ Content changes, page names change. Using a hardcoded path in Markdown links wil
 #### Use the Markdown footnote syntax to render footnotes
 
 Hugo allows for specifying footnotes in [the regular Markdown syntax](https://michelf.ca/projects/php-markdown/extra/#footnotes), e.g. `[^1]` for the note in the text and `[^1]: Some text` (mind the colon) wherever you want to place the footnote text. It has the added advantage that the footnote also links back to the text.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsirredbeard%2Fregolith-desktop-website.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsirredbeard%2Fregolith-desktop-website?ref=badge_large)
